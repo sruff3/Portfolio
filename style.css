@@ -120,6 +120,11 @@ h3 { font-size: var(--fs-h3) }
     }
 }
 
+.logo{
+    max-width: 50px;
+    max-height: 50px;
+}
+
 
 
 
