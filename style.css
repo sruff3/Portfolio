@@ -44,6 +44,10 @@ img {
     max-width: 100%;
 }
 
+strong{
+    font-weight: var(--fw-bold);
+}
+
 h1,
 h2,
 h3 {
@@ -71,7 +75,9 @@ h3 { font-size: var(--fs-h3) }
 }
 
 
-
+.section__title-intro {
+    font-weight: var(--fw-reg);
+}
 
 
 
