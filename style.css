@@ -31,7 +31,7 @@
 }
 
 body {
-    background: var(--clr-light);
+    background-color: var(--clr-light);
     color: var(--clr-dark);
     margin: 0;
     font-family:  var(--ff-primary);
@@ -70,7 +70,7 @@ h3 { font-size: var(--fs-h3) }
 
 .section__subtitle--intro,
 .section__subtitle--about {
-    background: var(--clr-accent);
+    background-color: var(--clr-accent);
     font-family: var(--ff-secondary);
 }
 
